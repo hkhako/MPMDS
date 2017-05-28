@@ -1,0 +1,22 @@
+[NON] Number of Node (CPU)
+5
+
+[Box Diagonal Corners Coordinate]
+-36.143843198306605000 -0.000040410000000000 -0.000040410000000000 36.143843198306605000 72.287645986613214000 16.164040409999998000
+
+[Border Offset]
+5.0 5.0 0
+
+[Periodic Border Type]
+1 1
+1 1
+1 1
+
+[Auto Divide]
+1
+
+[Nodes Diagonal Corners Coordinate]
+1 0 0 0 0.25 1 1
+2 0.25 0 0 0.5 1 1
+3 0.5 0 0 0.75 1 1
+4 0.75 0 0 1 1 1
